@@ -1,0 +1,19 @@
+{
+  "name": "memory-game",
+  "version": "1.0.0",
+  "description": "Rick and Morty memory game. Using Javascript, and API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jhan00/R-M-Memory-Game.git"
+  },
+  "author": "Jhan Diaz Abad <jhandiazbad@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jhan00/R-M-Memory-Game/issues"
+  },
+  "homepage": "https://github.com/Jhan00/R-M-Memory-Game#readme"
+}
